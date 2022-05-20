@@ -7,4 +7,4 @@ HTML = el esqueleto de la app.
 CSS = Estilos simples utilizando un poco de display flex para el posicionamiento de las card.
 JS = interacción con el HTML y las formulas que resuelven dichas áreas y perímetros.
 
-WebSite: https://calc-figuras-geometricas.netlify.app/ (Puedes probarla)
+WebSite: https://geometric-figures.netlify.app/ (Puedes probarla)
